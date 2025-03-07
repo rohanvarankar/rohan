@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on EventKonnect Project<br><br>🌱 I’m Frontend Web Developer<br><br>👨‍💻 All of my projects are available at https://rohanportfolio-tawny.vercel.app<br><br>💬 Ask me about React, Nextjs, TailwindCss, MongoDB, Java<br><br>📫 How to reach me rohanvarankar2000@gmail.com<br><br>⚡ Fun fact I forget to eat and sleep while coding😒😂
+Hi 👋, I'm Rohan Varankar<br><br>< A passionate Frontend Web Developer from India ><br><br>🔭 I’m currently working on EventKonnect Project<br><br>🌱 I’m Frontend Web Developer<br><br>👨‍💻 All of my projects are available at https://rohanportfolio-tawny.vercel.app<br><br>💬 Ask me about React, Nextjs, MongoDB, Java<br><br>📫 How to reach me rohanvarankar2000@gmail.com<br><br>⚡ Fun fact I forget to eat and sleep while coding😒😂
 
 
 ## 🌐 Socials:
@@ -15,7 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rohanvarankar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍ Random Dev Quote
+### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
